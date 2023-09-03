@@ -18,7 +18,7 @@
 <details>
   <summary>Language Statitcs...</summary>
   <p>
-    <img src="https://wakatime.com/share/@e1391aa1-c9c6-4e45-9ad7-082844f7c96a/b073f276-6b1e-40c2-a49e-19663a2fe8ab.svg" height="400">
+    <img src="https://wakatime.com/share/@e1391aa1-c9c6-4e45-9ad7-082844f7c96a/7aaf2983-2100-4c74-b606-c87c7351da32.svg" height="400">
   </p>
 </details>
 
