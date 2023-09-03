@@ -13,6 +13,13 @@
   </p>
 </details>
 
+<details>
+  <summary>Editor Statitcs...</summary>
+  <p>
+    <img src="https://wakatime.com/share/@e1391aa1-c9c6-4e45-9ad7-082844f7c96a/4631f7ee-5a38-4a08-a113-259f621719dd.svg" height="400">
+  </p>
+</details>
+
 </div>
 <details>
   <summary>Github Statistics...</summary>
