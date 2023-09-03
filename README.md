@@ -5,6 +5,14 @@
   <a href="https://www.linkedin.com/in/luis-eduardo-c-m-de-lima-105750246/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 <hr>
+
+<details>
+  <summary>Language Statitcs...</summary>
+  <p>
+    <img src="https://wakatime.com/share/@e1391aa1-c9c6-4e45-9ad7-082844f7c96a/7aaf2983-2100-4c74-b606-c87c7351da32.svg" height="400">
+  </p>
+</details>
+
 </div>
 <details>
   <summary>Github Statistics...</summary>
@@ -13,13 +21,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luidooo&show_icons=true&theme=transparent)
 
  </p>
-</details>
-
-<details>
-  <summary>Language Statitcs...</summary>
-  <p>
-    <img src="https://wakatime.com/share/@e1391aa1-c9c6-4e45-9ad7-082844f7c96a/7aaf2983-2100-4c74-b606-c87c7351da32.svg" height="400">
-  </p>
 </details>
 
 <hr>
