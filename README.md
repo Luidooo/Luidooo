@@ -16,7 +16,7 @@
 <details>
   <summary>Editor Statitcs...</summary>
   <p>
-    <img src="https://wakatime.com/share/@e1391aa1-c9c6-4e45-9ad7-082844f7c96a/4631f7ee-5a38-4a08-a113-259f621719dd.svg" height="400">
+    <img src="https://wakatime.com/share/@e1391aa1-c9c6-4e45-9ad7-082844f7c96a/f2bfddc1-10fb-476a-9bc0-64286d6cdfca.svg" height="400">
   </p>
 </details>
 
