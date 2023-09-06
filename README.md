@@ -1,6 +1,5 @@
 [![Code Time](https://wakatime.com/badge/user/e1391aa1-c9c6-4e45-9ad7-082844f7c96a/project/cabb677d-7fbb-4d48-b6eb-52099f8e33f2.svg)](https://wakatime.com/badge/user/e1391aa1-c9c6-4e45-9ad7-082844f7c96a/project/cabb677d-7fbb-4d48-b6eb-52099f8e33f2)
 
-[![wakatime](https://wakatime.com/badge/user/e1391aa1-c9c6-4e45-9ad7-082844f7c96a/project/b919dd91-1d83-448f-8f86-e40aee2c38a8.svg)](https://wakatime.com/badge/user/e1391aa1-c9c6-4e45-9ad7-082844f7c96a/project/b919dd91-1d83-448f-8f86-e40aee2c38a8)
 
 <div> 
   <a href = "mailto:eng.limaluis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
