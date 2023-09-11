@@ -1,4 +1,5 @@
-[![Code Time](https://wakatime.com/badge/user/e1391aa1-c9c6-4e45-9ad7-082844f7c96a/project/cabb677d-7fbb-4d48-b6eb-52099f8e33f2.svg)](https://wakatime.com/badge/user/e1391aa1-c9c6-4e45-9ad7-082844f7c96a/project/cabb677d-7fbb-4d48-b6eb-52099f8e33f2)
+
+[![Code_time](https://wakatime.com/badge/user/e1391aa1-c9c6-4e45-9ad7-082844f7c96a.svg)](https://wakatimee1391aa1-c9c6-4e45-9ad7-082844f7c96a)
 
 <figure><embed src="https://wakatime.com/share/@e1391aa1-c9c6-4e45-9ad7-082844f7c96a/6584a5f7-0dcb-4b58-9a77-69f76b2ef3ad.svg"></embed></figure>
 
