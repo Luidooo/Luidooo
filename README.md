@@ -24,15 +24,6 @@
   </p>
 </details>
 
-</div>
-<details>
-  <summary>Github Statistics...</summary>
-  <p align = "center">
-    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luidooo&show_icons=true&theme=transparent)
-
- </p>
-</details>
 
 <hr>
   
